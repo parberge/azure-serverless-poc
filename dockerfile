@@ -1,6 +1,6 @@
 FROM python:3.10-alpine
+RUN pip install flask
 COPY . /app
 WORKDIR /app
-RUN pip install flask
 ENTRYPOINT ["python"]
 CMD ["app.py"]
