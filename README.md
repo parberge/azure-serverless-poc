@@ -18,9 +18,9 @@ Both seem to support container images (which I see as a requirement). Container 
 
 ### Testing container apps
 
-To get started, run the [setup-container-apps.sh](setup-container-apps.sh) script.  
+To get started, run the [setup-containerapp.sh](setup-containerapp.sh) script.  
 When done it should give you an URL that should work :smile:
 
 ### Cleanup
 
-Delete the resource group that was created in the [setup-container-apps.sh](setup-container-apps.sh) script.
+Delete the resource group that was created in the [setup-containerapp.sh](setup-containerapp.sh) script.
